@@ -30,7 +30,3 @@ Run all tests headless: `npx cypress open`
 #### Created two separated test suites: 
 - greenkartTest.cy.js
 - webdriveruniversityTest.cy.js
-
-#### Explanation: 
-- Tests are fully separated websites. 
-- Unnecessary test (In Cypress this is difficult/unpossible to jump from one browser tab to another)
