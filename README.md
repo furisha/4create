@@ -2,10 +2,10 @@
 Assignment from 4Create
 
 #### Used dependencies/version:
-- cypress: 12.13.0
-- cypress-real-events: 1.8.1
+- cypress: 12.13.0,
+- cypress-real-events: 1.8.1,
 - @4tw/cypress-drag-drop: 2.2.3,
-- cypress-mochawesome-reporter: 3.5.0// 
+- cypress-mochawesome-reporter: 3.5.0
 
 #### Open tests in Cypress CLI
 Run all tests headless: `npx cypress open`
