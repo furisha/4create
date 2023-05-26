@@ -25,7 +25,7 @@ Run all tests headless: `npx cypress open`
 `npx cypress run gk_tests`
 
 ### Note:
-#### Skipped randomly select 1 item and add it to basket. Used Bonus with min/max insted.
+#### Skipped randomly select 1 item and add it to basket. Used Bonus with min/max instead.
 #### Missing step 8: In the same test open new tab and go to: Link
 #### Created two separated test suites: 
 - greenkartTest.cy.js
