@@ -1,0 +1,22 @@
+{
+  "name": "4create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.13.0",
+    "cypress-real-events": "^1.8.1"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress-mochawesome-reporter": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all_tests": "npx cypress run",
+    "wdu_tests": "npx cypress run --spec cypress/e2e/webdriveruniversityTest.cy.js",
+    "gk_tests": "npx cypress run --spec cypress/e2e/greenkartTest.cy.js"
+  },
+  "author": "Vladan Furman",
+  "license": "ISC"
+}

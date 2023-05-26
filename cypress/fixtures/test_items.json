@@ -1,0 +1,15 @@
+{
+  "txt_vegetables_cucumber": "Cucumber",
+  "title_greenkart_homepage": "GreenKart - veg and fruits kart",
+  "title_wdu_homepage": "WebDriverUniversity.com",
+  "url_greenkart_homepage": "https://rahulshettyacademy.com/seleniumPractise/#/",
+  "url_wdu_homepage": "https://www.webdriveruniversity.com/",
+  "txt_greenkart": "GREENKART",
+  "txt_courses_and_promo_codes": "My Courses & Promo Codes",
+  "goto_contact_us_page_url": "http://www.webdriveruniversity.com/Contact-Us/contactus.html",
+  "txt_alert_message": "Well done you clicked on the link!",
+  "href_actions": "https://www.webdriveruniversity.com/Actions/index.html",
+  "button_add_to_cart_text": "ADD TO CART",
+  "number_of_items_to_add": 2,
+  "cart_icon_counter": 3
+}
